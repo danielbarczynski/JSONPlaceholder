@@ -2,10 +2,16 @@
 
 All notable changes to this project will be documented in this file.
 
+## [0.0.4] 22-03-2023
+
+### Modified
+- Home.js - page with user posts using jsonplaceholder API
+  
 ## [0.0.3] 22-03-2023
 
 ### Modified
 - Profile.js - created profile page with random pic and user info using jsonplaceholder as API and picsum for the avatars
+
 ## [0.0.2] 22-03-2023
 
 ### Added
@@ -16,7 +22,6 @@ All notable changes to this project will be documented in this file.
 
 ### Modified
 - App.js
-  
   
 ## [0.0.1] 22-03-2023
 

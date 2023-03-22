@@ -3,7 +3,7 @@ import React from 'react';
 
 const Login = ({ navigation }) => {
   const loginHandler = () => {
-    navigation.navigate('Profile');
+    navigation.navigate('Home');
   }
   return (
     <View style={styles.container}>
