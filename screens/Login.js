@@ -1,9 +1,9 @@
-import { StyleSheet, Text, View, TextInput, Button, StatusBar } from 'react-native';
+import { StyleSheet, View, TextInput, Button, StatusBar } from 'react-native';
 import React from 'react';
 
 const Login = ({ navigation }) => {
   const loginHandler = () => {
-    navigation.navigate('Home');
+    navigation.navigate('Profile');
   }
   return (
     <View style={styles.container}>

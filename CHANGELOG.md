@@ -1,6 +1,11 @@
 # Changelog
 
 All notable changes to this project will be documented in this file.
+
+## [0.0.3] 22-03-2023
+
+### Modified
+- Profile.js - created profile page with random pic and user info using jsonplaceholder as API and picsum for the avatars
 ## [0.0.2] 22-03-2023
 
 ### Added
